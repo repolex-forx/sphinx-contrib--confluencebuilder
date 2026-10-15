@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "confluencebuilder",
+  "versions": [
+    {
+      "commit": "14515276dd10f664e16b56f7681a4f57c8fe4235",
+      "tag": "",
+      "parsed_at": "2026-10-15T09:44:42.967221+00:00"
+    }
+  ]
+}
