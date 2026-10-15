@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/confluencebuilder/commit/14515276dd10f664e16b56f7681a4f57c8fe4235",
       "git:hexsha": "14515276dd10f664e16b56f7681a4f57c8fe4235",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T09:44:42.840237+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/confluencebuilder/commit/b67d426451312e63b92fde557d764cd161e0bf09",
